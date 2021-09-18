@@ -1,6 +1,6 @@
 name: micro_app_login
 description: A new Flutter package project.
-version: 0.0.1
+version: 1.0.0
 author:
 homepage:
 
@@ -13,7 +13,9 @@ dependencies:
     sdk: flutter
 
   micro_core:
-    path: ../micro_core
+    git:
+      url: https://github.com/juanprog/-Advanced-micro-core.git
+      ref: v1.0.0
 
 dev_dependencies:
   flutter_test:
