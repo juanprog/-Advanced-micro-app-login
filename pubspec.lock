@@ -85,20 +85,20 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.2.0"
-      resolved-ref: "3cb0a01b4321300bfecbbd24d0b3d42c3b0bf9cc"
+      ref: "v1.2.1"
+      resolved-ref: "239d0ce7c6bebe2f6059f38e9a27e6334ec869b2"
       url: "https://github.com/juanprog/-Advanced-Micro-Commons-Design-System.git"
     source: git
-    version: "1.2.0"
+    version: "1.2.1"
   micro_core:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.0.0"
-      resolved-ref: "3e9912f8f4b77eab99198cbf55f8437edc1f7ff5"
+      ref: "v1.0.2"
+      resolved-ref: da6f66a8f6532c6059f58a206a1f83464ef066f3
       url: "https://github.com/juanprog/-Advanced-micro-core.git"
     source: git
-    version: "0.0.1"
+    version: "1.0.2"
   path:
     dependency: transitive
     description:
