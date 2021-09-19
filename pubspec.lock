@@ -74,6 +74,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.7.0"
+  micro_commons_design_system:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "v1.1.0"
+      resolved-ref: d5b5cab93aa60bf113a3c9f0820ee71aaf815614
+      url: "https://github.com/juanprog/Advanced-Micro-Commons-Design-System.git"
+    source: git
+    version: "1.1.0"
   micro_core:
     dependency: "direct main"
     description:
