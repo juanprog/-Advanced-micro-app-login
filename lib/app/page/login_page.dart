@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:micro_commons_design_system/widgets/buttons/custom_button_widget.dart';
+import 'package:micro_commons_design_system/micro_commons_design_system.dart';
 import 'package:micro_core/micro_core.dart';
 
 class LoginPage extends StatelessWidget {
